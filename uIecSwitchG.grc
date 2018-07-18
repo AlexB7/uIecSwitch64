@@ -1,0 +1,8 @@
+
+
+HEADER APPLICATION "uIecSwitch" "uIecSwitch" "V1.2" {
+	dostype USR
+	author "ShadowM"
+	info "Switch disk images on a uIEC or sd2iec."
+	icon "icon-program.bin"
+}
